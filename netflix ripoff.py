@@ -1,4 +1,5 @@
 import user_input, movie, account
+# sample data, much more to fill in
 entertainment = {
      "Tv": {
         'The Walking Dead' : {
